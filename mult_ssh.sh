@@ -18,9 +18,9 @@ test -d ${BASE_DIR} || mkdir -p ${BASE_DIR}
 
 # main body
 for HOST in `cat ${SERVER_FILE}`; do 
-	echo $HOST:
+	echo "$HOST:"
 	ssh -n -i ${KEY_FILE} ${USER}@${HOST} ${COMMAND} 
-	echo
+	echo ""
 done
 
 
