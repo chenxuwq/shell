@@ -8,3 +8,4 @@ establish a trust relationship of SSH (admin -> server...)
 ssh-keygen -t rsa -b 2048 -N '' -f ~/.ssh/ssh-id_rsa
 ssh-copy-id -i ~/.ssh/ssh-id_rsa.pub 192.168.1.11
 ```
+
