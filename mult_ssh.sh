@@ -7,7 +7,7 @@ if [ "$#" -ne 1 ]; then
 	exit 1
 fi
 
-BASE_DIR="`dirname $0`/.adm"
+BASE_DIR=`dirname $0`
 KEY_FILE='/root/.ssh/ssh-id_rsa'
 SERVER_FILE=$1
 COMMAND="yum -y install httpd"
