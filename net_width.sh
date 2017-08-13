@@ -1,4 +1,4 @@
-#!/bin/env bash
+#!/usr/bin/env bash
 # Used to:   Check the average flow per second
 #------------------------------------------------------------------------------------------------
 # Developer:    xu.chen
