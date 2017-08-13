@@ -1,4 +1,4 @@
-#!/bin/env bash
+#!/usr/bin/env bash
 # Used to:   Multiple SSH run commands
 # You can change the 'COMMAND'
 #------------------------------------------------------------------------------------------------
