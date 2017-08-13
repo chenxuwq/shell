@@ -1,4 +1,4 @@
-#!/bin/env bash
+#!/usr/bin/env bash
 # Used to:   Backup full database mongodb
 #------------------------------------------------------------------------------------------------
 # Developer:    xu.chen
