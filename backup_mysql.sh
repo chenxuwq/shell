@@ -1,4 +1,4 @@
-#!/bin/env bash
+#!/usr/bin/env bash
 # Used to:   Backup full database and backup every table at 2:00
 #------------------------------------------------------------------------------------------------
 # Developer:    xu.chen
