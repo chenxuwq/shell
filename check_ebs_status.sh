@@ -1,4 +1,4 @@
-#!/bin/env bash
+#!/usr/bin/env bash
 # Used to: Check AWS's "ELASTIC BLOCK STORE" status, if available send email to admin
 # "AWS CLI" or "IAM" must available
 # known more:
